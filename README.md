@@ -31,7 +31,7 @@ Before starting, ensure you have the following:
 ## **Link to the Repo**
 
 We’ll be working with the following repository for this project:
-[GitHub Repo: Azure-30day--DevOps-Challenge - Week1 - AzureDataLake](https://github.com/alahl1/Azure-30day--DevOps-Challenge/tree/main/Projects/Week1/AzureDataLake)
+[GitHub Repo:AzureNBADataLake](https://github.com/Jepkosgei3/NBA_DATA_LAKE_AZURE.git)
 
 ---
 
@@ -101,8 +101,8 @@ You will need to replace the placeholders in the `.env` file with your own crede
 
 Start by cloning the repository to your local machine:
 ```bash
-git clone https://github.com/alahl1/Azure-30day--DevOps-Challenge.git
-cd Azure-30day--DevOps-Challenge/Projects/Week1/AzureDataLake
+git clone [https://github.com/alahl1/Azure-30day--DevOps-Challenge.git](https://github.com/Jepkosgei3/NBA_DATA_LAKE_AZURE.git)
+cd NBA_DATA_LAKE_AZURE
 ```
 
 ### **Step 2: Install Dependencies**
